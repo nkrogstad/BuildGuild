@@ -1,0 +1,6 @@
+framework module Pods_BuildGuildTests {
+  umbrella header "Pods-BuildGuildTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
